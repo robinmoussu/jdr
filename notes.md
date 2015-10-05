@@ -63,3 +63,10 @@ J'ai partagé du pain avec les badeaux. Ils ont l'air de bien m'aimer.
 77ème jour d'automne
 ====================
 
+Un homme de grande taille, la 30aine, ne portant pas d'armure apparente, mais
+des vêtements de voyages. Il porte des lunettes, le protégeant du sable. Il a un
+arc long et une épée longue, ainsi qu'un gros sac. C'est Kildir. Il vient de
+Parvit (la capitale).
+
+On a combattu de grosse créature de plant de la terre que l'on a tué avec
+succès.
